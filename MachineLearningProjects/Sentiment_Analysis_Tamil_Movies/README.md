@@ -48,7 +48,7 @@ await collector.login(
     auth_info_1="@YourUsername", 
     auth_info_2="your_email@gmail.com", 
     password="your_password")
-
+```
 2.Run the Script
 
 python main.py

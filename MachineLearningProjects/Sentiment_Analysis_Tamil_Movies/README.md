@@ -56,6 +56,7 @@ Output: Sentiment scores and labels in finebert_score and finebert_sentiment col
 
 
 SentimentAnalysisTamilMovies/
+```python
 ├── src/
 │   ├── components/
 │   │   ├── data_integtion.py  # Data collection and preprocessing
@@ -64,7 +65,7 @@ SentimentAnalysisTamilMovies/
 ├── tamil_movies_tweets.json  # Tweet data (optional)
 ├── requirements.txt          # Dependencies
 └── README.md                 # This file
-
+```
 
 text: "Tamil movies semma da 2025 🔥📈❤"
 tamil: "semma da"

@@ -14,7 +14,7 @@ Welcome to the **Portfolio Analytics Dashboard**! 🚀 This project is a **Strea
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/portfolio-dashboard.git
+git clone https://github.com/zCoder0/Projects/portfolio.git
 cd portfolio-dashboard
 ```
 

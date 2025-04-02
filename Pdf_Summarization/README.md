@@ -63,7 +63,7 @@ This project implements a PDF summarization system using Google's `flan-t5-large
 - Improve summarization accuracy with fine-tuning.
 
 ## 👨‍💻 Author
-**Prem Raj** – [GitHub](https://github.com/zCoder0) | 
+**Prem Raj** – [GitHub](https://github.com/zCoder0) | [LinkedIn](https://www.linkedin.com/in/prem-raj-sivakumar-998aa628a/)
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

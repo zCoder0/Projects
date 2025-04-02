@@ -51,8 +51,8 @@ await collector.login(
 ```
 2.Run the Script
 
--python main.py
--Output: Sentiment scores and labels in finebert_score and finebert_sentiment columns.
+- python main.py
+- Output: Sentiment scores and labels in finebert_score and finebert_sentiment columns.
 
 
 SentimentAnalysisTamilMovies/
@@ -67,18 +67,18 @@ SentimentAnalysisTamilMovies/
 └── README.md                 # This file
 ```
 ## ouput
-  -text: "Tamil movies semma da 2025 🔥📈❤"
-  -tamil: "semma da"
-  -english: "Tamil movies 2025"
-  -emojis: "🔥📈❤"
-  -finebert_score: 0.55
-  -finebert_sentiment: Positive
+  - text: "Tamil movies semma da 2025 🔥📈❤"
+  - tamil: "semma da"
+  - english: "Tamil movies 2025"
+  - emojis: "🔥📈❤"
+  - finebert_score: 0.55
+  - finebert_sentiment: Positive
 
 ## Future Improvements
-  -Add dashboard with Streamlit.
-  -Support real-time tweet streaming.
-  -Expand emoji sentiment dictionary.
-  -Contributing
+  - Add dashboard with Streamlit.
+  - Support real-time tweet streaming.
+  - Expand emoji sentiment dictionary.
+  - Contributing
 
 
 ## Contributing
@@ -88,5 +88,5 @@ Feel free to fork, submit PRs, or report issues on GitHub!
 MIT License (or your choice).
 
 ## Contact
--Author: Prem Raj
--Email: rajp37590@gmail.com
+- Author: Prem Raj
+- Email: rajp37590@gmail.com

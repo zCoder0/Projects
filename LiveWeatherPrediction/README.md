@@ -38,6 +38,8 @@ A visually appealing, real-time weather dashboard built using **Streamlit** and 
     ```
 
 ## ▶️ Run the App ##
+
+
     ```bash
         streamlit run app.py
     ```

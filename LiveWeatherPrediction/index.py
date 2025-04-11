@@ -10,7 +10,7 @@ from dashboard_details import Dashboard
 # Load API Key
 load_dotenv()
 api_key = os.getenv("API_KEY")
-api_key = "baadbd9843734bd78c074200250504"  # Use your API 
+api_key = ""  # Use your API 
 # Streamlit Page Config
 st.set_page_config(page_title="🌤️ Weather Dashboard", layout="centered")
 

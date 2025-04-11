@@ -21,7 +21,7 @@ api_key = os.getenv("API_KEY")
 
 class Dashboard:
     def load_data(self, location, days=1):
-        api_key = "baadbd9843734bd78c074200250504"
+        api_key = ""
         self.location = location
         print(self.location)
         try:

@@ -55,6 +55,7 @@ streamlit run main.py
 
 # 📁 Project Structure
 
+```bash
 .
 ├── main.py
 ├── README.md
@@ -66,7 +67,7 @@ streamlit run main.py
 │   │   └── dataset
 │   └── exception
 │       └── ExceptionBase.py
-
+```
 
 # 📌 Notes
 - Press q to quit webcam-based recognition.

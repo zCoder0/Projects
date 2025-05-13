@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: Mini-Gpt-4
+Version: 0.0.0
+Summary: Mini Gpt-4
+Author: Prem
+Author-email: rajp37590@gmail.com
+Requires-Dist: regex
+Requires-Dist: collection
+Requires-Dist: torch
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary

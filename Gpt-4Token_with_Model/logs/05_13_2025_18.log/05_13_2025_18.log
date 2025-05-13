@@ -1,0 +1,1 @@
+[ 2025-05-13 18:19:17,542 ] 14 root - INFO - Error occured in python script name at G:\RealtimeProjects\Gpt-4Token_with_Model\main.py on line number 10 error messgae Tokenizer.encoder() missing 1 required positional argument: 'num_merges'

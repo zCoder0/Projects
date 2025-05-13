@@ -1,0 +1,2 @@
+[ 2025-05-10 17:30:44,672 ] 4 root - INFO - Hi
+[ 2025-05-10 17:33:00,003 ] 14 root - INFO - Error occured in python script name at G:\RealtimeProjects\Gpt-4Token_with_Model\main.py on line number 6 error messgae division by zero

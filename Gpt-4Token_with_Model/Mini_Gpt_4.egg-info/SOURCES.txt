@@ -1,0 +1,6 @@
+setup.py
+Mini_Gpt_4.egg-info/PKG-INFO
+Mini_Gpt_4.egg-info/SOURCES.txt
+Mini_Gpt_4.egg-info/dependency_links.txt
+Mini_Gpt_4.egg-info/requires.txt
+Mini_Gpt_4.egg-info/top_level.txt

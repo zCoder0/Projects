@@ -1,8 +1,7 @@
 # Spam Website Detector - Chrome Extension
 
 ## 📌 Overview
-The **Spam Website Detector** is a Chrome extension that helps users identify whether a website is spam or not. This extension analyzes website URLs and provides a warning if a website is suspected to be malicious, phishing, or spam-related.
-
+The **Spam Website Detector** is a Chrome extension that helps users identify whether a website is spam or not. The primary goal of this project is to develop a reliable and real-time phishing and spam website detection system that protects users from visiting malicious or harmful websites. The system integrates a machine learning model, specifically a Transformer-based model (like BERT), trained to classify websites as either "safe" (ham) or "spam" (phishing/malicious).
 ## 🚀 Features
 - ✅ Detects spam and phishing websites in real-time.
 - 🔍 Uses an intelligent filtering system to analyze URLs.

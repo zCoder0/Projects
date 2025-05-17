@@ -1,0 +1,5 @@
+[ 2025-05-15 15:38:48,882 ] 14 root - INFO - Error occured in python script name at G:\Project Work\Star Lion\src\trained_model\model.py on line number 17 error messgae 'Model' object has no attribute 'model_path'
+[ 2025-05-15 15:38:48,882 ] 14 root - INFO - Error occured in python script name at G:\Project Work\Star Lion\src\trained_model\model.py on line number 28 error messgae 'NoneType' object is not callable
+[ 2025-05-15 15:39:12,322 ] 14 root - INFO - Error occured in python script name at G:\Project Work\Star Lion\src\trained_model\model.py on line number 17 error messgae We couldn't connect to 'https://huggingface.co' to load the files, and couldn't find them in the cached files.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+[ 2025-05-15 15:39:12,323 ] 14 root - INFO - Error occured in python script name at G:\Project Work\Star Lion\src\trained_model\model.py on line number 28 error messgae 'NoneType' object is not callable

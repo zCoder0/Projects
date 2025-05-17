@@ -1,0 +1,73 @@
+[ 2025-05-17 20:00:31,045 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2025-05-17 20:00:31,045 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2025-05-17 20:00:31,045 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2025-05-17 20:00:40,152 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-17 20:00:40,175 ] 97 werkzeug - INFO -  * Debugger PIN: 725-181-717
+[ 2025-05-17 20:00:47,938 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:00:47] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:03:19,353 ] 97 werkzeug - INFO -  * Detected change in 'G:\\Project Work\\Star Lion\\server.py', reloading
+[ 2025-05-17 20:03:32,099 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2025-05-17 20:03:32,099 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2025-05-17 20:03:32,099 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2025-05-17 20:03:39,752 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-17 20:03:39,767 ] 97 werkzeug - INFO -  * Debugger PIN: 725-181-717
+[ 2025-05-17 20:04:30,825 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:04:30] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:07:58,086 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2025-05-17 20:07:58,086 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2025-05-17 20:07:58,088 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2025-05-17 20:08:07,170 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-17 20:08:07,186 ] 97 werkzeug - INFO -  * Debugger PIN: 725-181-717
+[ 2025-05-17 20:08:30,457 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:08:30] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:08:30,849 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:08:30] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:08:56,891 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:08:56] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:08:57,949 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:08:57] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:08:58,606 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:08:58] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:09:14,011 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:09:14] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:09:22,795 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:09:22] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:09:23,194 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:09:23] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:09:28,671 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:09:28] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:09:29,117 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:09:29] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:09:36,154 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:09:36] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:09:37,676 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:09:37] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:10:09,984 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:10:09] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:10:10,625 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:10:10] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:10:11,077 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:10:11] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:10:12,057 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:10:12] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:10:17,637 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:10:17] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:10:21,082 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:10:21] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:10:40,330 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:10:40] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:10:40,811 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:10:40] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:10:41,983 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:10:41] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:10:54,164 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:10:54] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:13:41,241 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:13:41] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:13:41,590 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:13:41] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:14:04,835 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:14:04] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:14:05,159 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:14:05] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:14:15,585 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:14:15] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:14:21,210 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:14:21] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:14:33,320 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:14:33] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:14:34,292 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:14:34] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:15:01,558 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:15:01] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:15:06,026 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:15:06] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:15:28,477 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:15:28] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:15:28,641 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:15:28] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:16:32,644 ] 97 werkzeug - INFO -  * Detected change in 'G:\\Project Work\\Star Lion\\server.py', reloading
+[ 2025-05-17 20:16:33,492 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2025-05-17 20:16:42,210 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-17 20:16:42,224 ] 97 werkzeug - INFO -  * Debugger PIN: 725-181-717
+[ 2025-05-17 20:16:42,237 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:16:42] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:16:46,062 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:16:46] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:18:35,553 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:18:35] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:18:39,929 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:18:39] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:18:48,075 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:18:48] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:18:48,485 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:18:48] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:18:49,171 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:18:49] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:19:34,234 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:19:34] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:19:34,597 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:19:34] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:19:35,879 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:19:35] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:19:47,832 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:19:47] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:20:13,104 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:20:13] "OPTIONS /check HTTP/1.1" 200 -
+[ 2025-05-17 20:20:14,727 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:20:14] "POST /check HTTP/1.1" 200 -
+[ 2025-05-17 20:20:19,496 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/May/2025 20:20:19] "POST /check HTTP/1.1" 200 -

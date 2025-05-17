@@ -1,0 +1,58 @@
+[ 2025-05-15 18:17:41,487 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2025-05-15 18:17:41,487 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2025-05-15 18:17:41,487 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2025-05-15 18:17:50,178 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-15 18:17:50,194 ] 97 werkzeug - INFO -  * Debugger PIN: 725-181-717
+[ 2025-05-15 18:20:25,435 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/May/2025 18:20:25] "POST /check HTTP/1.1" 200 -
+[ 2025-05-15 18:21:08,421 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2025-05-15 18:21:08,422 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2025-05-15 18:21:08,423 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2025-05-15 18:21:16,529 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-15 18:21:16,545 ] 97 werkzeug - INFO -  * Debugger PIN: 725-181-717
+[ 2025-05-15 18:21:40,199 ] 97 werkzeug - INFO -  * Detected change in 'G:\\Project Work\\Star Lion\\server.py', reloading
+[ 2025-05-15 18:21:41,112 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2025-05-15 18:21:49,493 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-15 18:21:49,501 ] 97 werkzeug - INFO -  * Debugger PIN: 725-181-717
+[ 2025-05-15 18:24:29,378 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2025-05-15 18:24:29,378 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2025-05-15 18:24:29,378 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2025-05-15 18:24:38,163 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-15 18:24:38,178 ] 97 werkzeug - INFO -  * Debugger PIN: 725-181-717
+[ 2025-05-15 18:26:53,995 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2025-05-15 18:26:53,995 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2025-05-15 18:26:53,995 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2025-05-15 18:27:02,912 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-15 18:27:02,928 ] 97 werkzeug - INFO -  * Debugger PIN: 725-181-717
+[ 2025-05-15 18:27:52,325 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2025-05-15 18:27:52,325 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2025-05-15 18:27:52,327 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2025-05-15 18:28:00,647 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-15 18:28:00,647 ] 97 werkzeug - INFO -  * Debugger PIN: 725-181-717
+[ 2025-05-15 18:29:44,205 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2025-05-15 18:29:44,205 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2025-05-15 18:29:44,207 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2025-05-15 18:29:52,204 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-15 18:29:52,223 ] 97 werkzeug - INFO -  * Debugger PIN: 725-181-717
+[ 2025-05-15 18:30:05,953 ] 97 werkzeug - INFO -  * Detected change in 'G:\\Project Work\\Star Lion\\src\\components\\data_integstion.py', reloading
+[ 2025-05-15 18:30:06,977 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2025-05-15 18:30:15,352 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-15 18:30:15,357 ] 97 werkzeug - INFO -  * Debugger PIN: 725-181-717
+[ 2025-05-15 18:30:22,434 ] 97 werkzeug - INFO -  * Detected change in 'G:\\Project Work\\Star Lion\\src\\components\\data_integstion.py', reloading
+[ 2025-05-15 18:30:23,241 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2025-05-15 18:30:31,843 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-15 18:30:31,843 ] 97 werkzeug - INFO -  * Debugger PIN: 725-181-717
+[ 2025-05-15 18:30:33,327 ] 14 root - INFO - Error occured in python script name at G:\Project Work\Star Lion\src\components\data_integstion.py on line number 48 error messgae name 'l' is not defined
+[ 2025-05-15 18:30:33,328 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/May/2025 18:30:33] "POST /check HTTP/1.1" 200 -
+[ 2025-05-15 18:31:02,226 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2025-05-15 18:31:02,226 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2025-05-15 18:31:02,226 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2025-05-15 18:31:09,995 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-15 18:31:10,005 ] 97 werkzeug - INFO -  * Debugger PIN: 725-181-717
+[ 2025-05-15 18:31:25,371 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/May/2025 18:31:25] "POST /check HTTP/1.1" 200 -

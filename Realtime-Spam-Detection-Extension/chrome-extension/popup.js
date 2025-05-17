@@ -1,24 +1,21 @@
-document.getElementById("checkPhishing").addEventListener("click", function () {
-    chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
-        let currentUrl = tabs[0].url;
-        checkPhishing(currentUrl);
-    });
-});
-
-function checkPhishing(url) {
+document.getElementById("checkBtn").addEventListener("click", async () => {
+    let [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
+    const url = tab.url;
+  
     fetch("http://127.0.0.1:5000/check", {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json"
-        },
-        body: JSON.stringify({ url: url })
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({ url })
     })
-    .then(response => response.json())
+    .then(res => res.json())
     .then(data => {
-        document.getElementById("result").innerText = `Result: ${data.result}`;
+      document.getElementById("result").innerText = data.result;
     })
-    .catch(error => {
-        document.getElementById("result").innerText = "Error connecting to server.";
-        console.error("Error:", error);
+    .catch(err => {
+      document.getElementById("result").innerText = "Error connecting to server.";
+      console.error(err);
     });
-}
+  });
+  

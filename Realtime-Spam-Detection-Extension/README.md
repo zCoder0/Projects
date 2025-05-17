@@ -22,7 +22,9 @@ The **Spam Website Detector** is a Chrome extension that helps users identify wh
    - The extension will now analyze websites as you browse.
 5. **Run Server Locally**
    - project_location
-        - python surver.py
+     ```sh
+        - python server.py
+     ```
 
 ## 🏗️ Project Structure
 ```

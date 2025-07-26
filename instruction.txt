@@ -1,1 +1,0 @@
-git clone https://huggingface.co/Accurateinfosolution/Suspicious_activity_detection_Yolov11_Custom

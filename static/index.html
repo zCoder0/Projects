@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Suspicious Monitoring System</title>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: url('./static/back.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: #333;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+    }
+
+    .container {
+      background: linear-gradient(145deg, #ffffff, #c8d7f2);
+      border-radius: 15px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+      padding: 30px;
+      max-width: 900px;
+      width: 100%;
+    }
+
+    .header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    .header h1 {
+      font-size: 26px;
+      color: #2c3e50;
+    }
+
+    .section {
+      margin-bottom: 30px;
+    }
+
+    .section h2 {
+      font-size: 22px;
+      margin-bottom: 10px;
+      color: #333;
+    }
+
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+      margin-bottom: 20px;
+    }
+
+    button {
+      padding: 10px 20px;
+      background: #007bff;
+      border: none;
+      color: #fff;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    button:hover {
+      background: #0056b3;
+    }
+
+    select,
+    input[type="file"],
+    input[type="range"],
+    input[type="number"] {
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      width: 100%;
+    }
+
+    .input-group {
+      margin-bottom: 15px;
+    }
+
+    label {
+      font-weight: bold;
+      margin-bottom: 5px;
+      display: block;
+    }
+
+    #status {
+      margin-top: 20px;
+      padding: 12px;
+      background-color: #f0f0f0;
+      border-left: 5px solid #007bff;
+      border-radius: 6px;
+      font-size: 14px;
+    }
+
+    video {
+      width: 100%;
+      max-width: 600px;
+      margin-top: 10px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    @media (max-width: 768px) {
+      .controls {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Suspicious Monitoring System</h1>
+    </div>
+
+    <div class="section">
+      <h2>Live Camera Controls</h2>
+
+      <div class="controls">
+        <button onclick="listDevices()">List Devices</button>
+        <button onclick="startStream()">Start Stream</button>
+        <button onclick="stopStream()">Stop Stream</button>
+      </div>
+
+      <div class="input-group">
+        <label for="cameras">Choose Camera:</label>
+        <select id="cameras"></select>
+      </div>
+
+      <div id="status">Waiting for Action...</div>
+    </div>
+
+    <div class="section">
+      <h2>Check & Upload Video</h2>
+
+      <div class="input-group">
+        <label for="media">Upload File:</label>
+        <input type="file" id="media">
+      </div>
+
+      <button onclick="uploadFile()">Upload</button>
+
+      <div class="input-group">
+        <label>Uploaded Video Preview:</label>
+        <video id="upload" controls></video>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function listDevices() {
+      fetch("/devices")
+        .then((response) => response.json())
+        .then((data) => {
+          const select = document.getElementById("cameras");
+          select.innerHTML = "";
+          data.forEach((device) => {
+            select.innerHTML += `<option value="${device.id}">${device.name}</option>`;
+          });
+        });
+    }
+
+    function startStream() {
+      const cameraId = document.getElementById("cameras").value;
+      fetch(`/start?source_id=${cameraId}`)
+        .then((response) => response.json())
+        .then((data) => {
+          document.getElementById("status").innerHTML = data.message;
+        });
+    }
+
+    function stopStream() {
+      fetch("/stop")
+        .then((response) => response.json())
+        .then((data) => {
+          document.getElementById("status").innerHTML = data.message;
+        });
+    }
+
+    function uploadFile() {
+      const file = document.getElementById("media").files[0];
+      const formData = new FormData();
+      formData.append("file", file);
+
+      fetch("/upload", {
+        method: "POST",
+        body: formData,
+      })
+        .then((response) => response.json())
+        .then((data) => {
+          document.getElementById("status").innerHTML = data.message;
+          const video = document.getElementById("upload");
+          video.src = URL.createObjectURL(file);
+          video.controls = true;
+        });
+    }
+  </script>
+</body>
+</html>

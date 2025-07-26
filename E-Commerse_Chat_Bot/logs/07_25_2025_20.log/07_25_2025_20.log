@@ -1,0 +1,146 @@
+[ 2025-07-25 20:14:16,986 ] 30 root - INFO - Entered the data ingestion method
+[ 2025-07-25 20:14:17,240 ] 35 root - INFO - DataSet readed Successfully
+[ 2025-07-25 20:14:18,447 ] 47 root - INFO - X_Train and X_test created successfully
+
+[ 2025-07-25 20:14:18,462 ] 77 root - INFO - Entered Preprocessing Method
+[ 2025-07-25 20:14:32,889 ] 86 root - INFO - Preprocess Done
+[ 2025-07-25 20:14:33,550 ] 91 root - INFO - Saved Sucessfully 
+
+[ 2025-07-25 20:14:33,550 ] 77 root - INFO - Entered initiate_transform_data method
+[ 2025-07-25 20:14:33,831 ] 82 root - INFO - dataset successfully readed
+[ 2025-07-25 20:14:33,831 ] 36 root - INFO - Entered transformer_object method
+[ 2025-07-25 20:14:33,831 ] 66 root - INFO - successfully created transformer objects
+
+[ 2025-07-25 20:14:33,831 ] 17 root - INFO - Error occured in python script name at G:\RealtimeProjects\Tut End to End ML\src\components\data_transformation.py on line number 104 error messgae tuple index out of range
+[ 2025-07-25 20:14:33,831 ] 17 root - INFO - Error occured in python script name at G:\RealtimeProjects\Tut End to End ML\main.py on line number 23 error messgae Error occured in python script name at G:\RealtimeProjects\Tut End to End ML\src\components\data_transformation.py on line number 104 error messgae tuple index out of range
+[ 2025-07-25 20:27:32,425 ] 30 root - INFO - Entered the data ingestion method
+[ 2025-07-25 20:27:32,694 ] 35 root - INFO - DataSet readed Successfully
+[ 2025-07-25 20:27:33,903 ] 47 root - INFO - X_Train and X_test created successfully
+
+[ 2025-07-25 20:27:33,919 ] 77 root - INFO - Entered Preprocessing Method
+[ 2025-07-25 20:27:48,281 ] 86 root - INFO - Preprocess Done
+[ 2025-07-25 20:27:48,923 ] 91 root - INFO - Saved Sucessfully 
+
+[ 2025-07-25 20:27:48,923 ] 78 root - INFO - Entered initiate_transform_data method
+[ 2025-07-25 20:27:49,233 ] 83 root - INFO - dataset successfully readed
+[ 2025-07-25 20:27:49,233 ] 36 root - INFO - Entered transformer_object method
+[ 2025-07-25 20:27:49,233 ] 67 root - INFO - successfully created transformer objects
+
+[ 2025-07-25 20:27:49,486 ] 17 root - INFO - Error occured in python script name at G:\RealtimeProjects\Tut End to End ML\src\components\data_transformation.py on line number 108 error messgae tuple index out of range
+[ 2025-07-25 20:27:49,486 ] 17 root - INFO - Error occured in python script name at G:\RealtimeProjects\Tut End to End ML\main.py on line number 23 error messgae Error occured in python script name at G:\RealtimeProjects\Tut End to End ML\src\components\data_transformation.py on line number 108 error messgae tuple index out of range
+[ 2025-07-25 20:31:23,549 ] 30 root - INFO - Entered the data ingestion method
+[ 2025-07-25 20:31:23,813 ] 35 root - INFO - DataSet readed Successfully
+[ 2025-07-25 20:31:25,077 ] 47 root - INFO - X_Train and X_test created successfully
+
+[ 2025-07-25 20:31:25,093 ] 77 root - INFO - Entered Preprocessing Method
+[ 2025-07-25 20:31:40,073 ] 86 root - INFO - Preprocess Done
+[ 2025-07-25 20:31:40,728 ] 91 root - INFO - Saved Sucessfully 
+
+[ 2025-07-25 20:31:40,728 ] 78 root - INFO - Entered initiate_transform_data method
+[ 2025-07-25 20:31:41,014 ] 83 root - INFO - dataset successfully readed
+[ 2025-07-25 20:31:41,014 ] 36 root - INFO - Entered transformer_object method
+[ 2025-07-25 20:31:41,014 ] 67 root - INFO - successfully created transformer objects
+
+[ 2025-07-25 20:31:41,014 ] 17 root - INFO - Error occured in python script name at G:\RealtimeProjects\Tut End to End ML\src\components\data_transformation.py on line number 105 error messgae tuple index out of range
+[ 2025-07-25 20:31:41,014 ] 17 root - INFO - Error occured in python script name at G:\RealtimeProjects\Tut End to End ML\main.py on line number 23 error messgae Error occured in python script name at G:\RealtimeProjects\Tut End to End ML\src\components\data_transformation.py on line number 105 error messgae tuple index out of range
+[ 2025-07-25 20:34:11,938 ] 30 root - INFO - Entered the data ingestion method
+[ 2025-07-25 20:34:12,214 ] 35 root - INFO - DataSet readed Successfully
+[ 2025-07-25 20:34:13,505 ] 47 root - INFO - X_Train and X_test created successfully
+
+[ 2025-07-25 20:34:13,519 ] 77 root - INFO - Entered Preprocessing Method
+[ 2025-07-25 20:34:27,943 ] 86 root - INFO - Preprocess Done
+[ 2025-07-25 20:34:28,584 ] 91 root - INFO - Saved Sucessfully 
+
+[ 2025-07-25 20:34:28,584 ] 57 root - INFO - Entered initiate_transform_data method
+[ 2025-07-25 20:34:28,875 ] 62 root - INFO - dataset successfully readed
+[ 2025-07-25 20:34:28,875 ] 36 root - INFO - Entered transformer_object method
+[ 2025-07-25 20:34:28,875 ] 46 root - INFO - successfully created transformer objects
+
+[ 2025-07-25 20:34:29,119 ] 93 root - INFO - Applied transformer on data
+[ 2025-07-25 20:34:29,190 ] 105 root - INFO - converted array
+[ 2025-07-25 20:34:29,208 ] 113 root - INFO - Piplines are saved
+
+[ 2025-07-25 20:53:34,762 ] 30 root - INFO - Entered the data ingestion method
+[ 2025-07-25 20:53:35,012 ] 35 root - INFO - DataSet readed Successfully
+[ 2025-07-25 20:53:36,218 ] 47 root - INFO - X_Train and X_test created successfully
+
+[ 2025-07-25 20:53:36,234 ] 77 root - INFO - Entered Preprocessing Method
+[ 2025-07-25 20:53:50,616 ] 86 root - INFO - Preprocess Done
+[ 2025-07-25 20:53:51,259 ] 91 root - INFO - Saved Sucessfully 
+
+[ 2025-07-25 20:53:51,259 ] 57 root - INFO - Entered initiate_transform_data method
+[ 2025-07-25 20:53:51,540 ] 62 root - INFO - dataset successfully readed
+[ 2025-07-25 20:53:51,540 ] 36 root - INFO - Entered transformer_object method
+[ 2025-07-25 20:53:51,540 ] 46 root - INFO - successfully created transformer objects
+
+[ 2025-07-25 20:53:51,763 ] 93 root - INFO - Applied transformer on data
+[ 2025-07-25 20:53:51,841 ] 105 root - INFO - converted array
+[ 2025-07-25 20:53:51,872 ] 113 root - INFO - Piplines are saved
+
+[ 2025-07-25 20:55:45,011 ] 30 root - INFO - Entered the data ingestion method
+[ 2025-07-25 20:55:45,261 ] 35 root - INFO - DataSet readed Successfully
+[ 2025-07-25 20:55:46,471 ] 47 root - INFO - X_Train and X_test created successfully
+
+[ 2025-07-25 20:55:46,487 ] 77 root - INFO - Entered Preprocessing Method
+[ 2025-07-25 20:56:00,819 ] 86 root - INFO - Preprocess Done
+[ 2025-07-25 20:56:01,462 ] 91 root - INFO - Saved Sucessfully 
+
+[ 2025-07-25 20:56:01,462 ] 57 root - INFO - Entered initiate_transform_data method
+[ 2025-07-25 20:56:01,743 ] 62 root - INFO - dataset successfully readed
+[ 2025-07-25 20:56:01,743 ] 36 root - INFO - Entered transformer_object method
+[ 2025-07-25 20:56:01,743 ] 46 root - INFO - successfully created transformer objects
+
+[ 2025-07-25 20:56:01,982 ] 93 root - INFO - Applied transformer on data
+[ 2025-07-25 20:56:02,044 ] 105 root - INFO - converted array
+[ 2025-07-25 20:56:02,060 ] 113 root - INFO - Piplines are saved
+
+[ 2025-07-25 20:56:02,060 ] 17 root - INFO - Error occured in python script name at G:\RealtimeProjects\Tut End to End ML\main.py on line number 28 error messgae 'ModelTraining' object has no attribute 'initiate_model_training'
+[ 2025-07-25 20:56:41,788 ] 30 root - INFO - Entered the data ingestion method
+[ 2025-07-25 20:56:42,238 ] 35 root - INFO - DataSet readed Successfully
+[ 2025-07-25 20:56:43,424 ] 47 root - INFO - X_Train and X_test created successfully
+
+[ 2025-07-25 20:56:43,424 ] 77 root - INFO - Entered Preprocessing Method
+[ 2025-07-25 20:56:57,797 ] 86 root - INFO - Preprocess Done
+[ 2025-07-25 20:56:58,453 ] 91 root - INFO - Saved Sucessfully 
+
+[ 2025-07-25 20:56:58,453 ] 57 root - INFO - Entered initiate_transform_data method
+[ 2025-07-25 20:56:58,750 ] 62 root - INFO - dataset successfully readed
+[ 2025-07-25 20:56:58,750 ] 36 root - INFO - Entered transformer_object method
+[ 2025-07-25 20:56:58,751 ] 46 root - INFO - successfully created transformer objects
+
+[ 2025-07-25 20:56:58,987 ] 93 root - INFO - Applied transformer on data
+[ 2025-07-25 20:56:59,054 ] 105 root - INFO - converted array
+[ 2025-07-25 20:56:59,080 ] 113 root - INFO - Piplines are saved
+
+[ 2025-07-25 20:56:59,080 ] 23 root - INFO - Entered into Model Training
+[ 2025-07-25 20:56:59,080 ] 26 root - INFO - Split train and test data 
+[ 2025-07-25 20:56:59,080 ] 40 root - INFO - Model created 
+[ 2025-07-25 20:56:59,080 ] 17 root - INFO - Error occured in python script name at G:\RealtimeProjects\Tut End to End ML\src\components\model_training.py on line number 41 error messgae evaluate_model() got an unexpected keyword argument 'Y_train'
+[ 2025-07-25 20:56:59,080 ] 17 root - INFO - Error occured in python script name at G:\RealtimeProjects\Tut End to End ML\main.py on line number 28 error messgae Error occured in python script name at G:\RealtimeProjects\Tut End to End ML\src\components\model_training.py on line number 41 error messgae evaluate_model() got an unexpected keyword argument 'Y_train'
+[ 2025-07-25 20:57:19,168 ] 30 root - INFO - Entered the data ingestion method
+[ 2025-07-25 20:57:19,448 ] 35 root - INFO - DataSet readed Successfully
+[ 2025-07-25 20:57:20,713 ] 47 root - INFO - X_Train and X_test created successfully
+
+[ 2025-07-25 20:57:20,729 ] 77 root - INFO - Entered Preprocessing Method
+[ 2025-07-25 20:57:35,242 ] 30 root - INFO - Entered the data ingestion method
+[ 2025-07-25 20:57:35,501 ] 35 root - INFO - DataSet readed Successfully
+[ 2025-07-25 20:57:36,724 ] 47 root - INFO - X_Train and X_test created successfully
+
+[ 2025-07-25 20:57:36,739 ] 77 root - INFO - Entered Preprocessing Method
+[ 2025-07-25 20:57:52,409 ] 86 root - INFO - Preprocess Done
+[ 2025-07-25 20:57:53,078 ] 91 root - INFO - Saved Sucessfully 
+
+[ 2025-07-25 20:57:53,078 ] 57 root - INFO - Entered initiate_transform_data method
+[ 2025-07-25 20:57:53,375 ] 62 root - INFO - dataset successfully readed
+[ 2025-07-25 20:57:53,375 ] 36 root - INFO - Entered transformer_object method
+[ 2025-07-25 20:57:53,375 ] 46 root - INFO - successfully created transformer objects
+
+[ 2025-07-25 20:57:53,627 ] 93 root - INFO - Applied transformer on data
+[ 2025-07-25 20:57:53,689 ] 105 root - INFO - converted array
+[ 2025-07-25 20:57:53,705 ] 113 root - INFO - Piplines are saved
+
+[ 2025-07-25 20:57:53,720 ] 23 root - INFO - Entered into Model Training
+[ 2025-07-25 20:57:53,720 ] 26 root - INFO - Split train and test data 
+[ 2025-07-25 20:57:53,720 ] 40 root - INFO - Model created 
+[ 2025-07-25 20:57:53,739 ] 17 root - INFO - Error occured in python script name at G:\RealtimeProjects\Tut End to End ML\src\components\model_training.py on line number 41 error messgae y should be a 1d array, got an array of shape (21496, 501) instead.
+[ 2025-07-25 20:57:53,739 ] 17 root - INFO - Error occured in python script name at G:\RealtimeProjects\Tut End to End ML\main.py on line number 28 error messgae Error occured in python script name at G:\RealtimeProjects\Tut End to End ML\src\components\model_training.py on line number 41 error messgae y should be a 1d array, got an array of shape (21496, 501) instead.

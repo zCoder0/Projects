@@ -1,0 +1,6 @@
+pandas
+numpy
+dataclasses
+scikit-learn
+dill
+nltk

@@ -1,9 +1,0 @@
-ultralytics
-numpy
-tensorflow
-torch
-fastapi
-pyvirtualcam
-uvicorn
-opencv-python
-python-multipart
